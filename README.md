@@ -1,3 +1,3 @@
 # Shoes-Website
 
-Check it out here :- https://nits-shoes.netlify.app/
+Check it out here :- 
